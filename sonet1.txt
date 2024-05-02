@@ -1,0 +1,5 @@
+mail.so-net.ne.jp,587,busou5@za2.so-net.ne.jp ,4303busou
+mail.so-net.ne.jp,587,h_iwai@wd5.so-net.ne.jp ,Raku2tei
+mail.so-net.ne.jp,587,jinzi@pc4.so-net.ne.jp ,jinzi0213
+mail.so-net.ne.jp,587,atrandom@bj9.so-net.ne.jp ,siyokugou23
+mail.so-net.ne.jp,587,hirosi@gb4.so-net.ne.jp ,84adfb64
